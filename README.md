@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manojseetaram</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-https://stock.adobe.com/in/images/back-view-of-it-worker-sitting-at-desk-and-working-on-computer-or-programming-a-programmer-or-coder-is-sitting-at-desk-and-working-on-computer-or-programming/826297995
+
 <p align="left"> <imhttps://66.media.tumblr.com/19ba7d60c149f1af54a23568ca30684e/tumblr_pkned6rcM31u6h176o1_500.gifg src="https://komarev.com/ghpvc/?username=manojseetaram&label=Profile%20views&color=0e75b6&style=flat" alt="manojseetaram" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojseetaram" alt="manojseetaram" /></a> </p>
