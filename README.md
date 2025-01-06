@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manojseetaram</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-<Image width='100%' src="https://66.media.tumblr.com/6b8ff4d9241349849d0e73e4f43ccc85/tumblr_pd9cyk7Sy11s60oo7o1_400.gif">
+<Image width='100%' height="70vh" src="https://66.media.tumblr.com/6b8ff4d9241349849d0e73e4f43ccc85/tumblr_pd9cyk7Sy11s60oo7o1_400.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojseetaram&label=Profile%20views&color=0e75b6&style=flat" alt="manojseetaram" /> </p>
 
 - 🔭 I’m currently working on **Printify App**
