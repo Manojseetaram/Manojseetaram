@@ -1,9 +1,9 @@
 
 
-```markdown
+````markdown
 <div align="center">
 
-rust
+```rust
 fn main() {
     let engineer = Engineer {
         name:    "Manoj Seetaram",
@@ -109,7 +109,7 @@ probe_rs         = true
 
 ```bash
 $ open   linkedin.com/in/manojseetaram
-$ mail   manojseetaram.dev@gmail.com
+$ mail   manojseetaram.artytech@gmail.com
 ```
 
 ---
@@ -128,5 +128,3 @@ $ mail   manojseetaram.dev@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojseetaram&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e05d2b&text_color=888" />
 
 </div>
-
-
